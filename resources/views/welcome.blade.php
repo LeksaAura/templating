@@ -54,7 +54,7 @@
           <li><a href="#about">About</a></li>
           <li><a href="#menu">Menu</a></li>
           <li><a href="#events">Events</a></li>
-          <li><a href="#chefs">Chefs</a></li>
+          <li><a href="#barista">Barista</a></li>
           <li><a href="#gallery">Gallery</a></li>
           <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
@@ -546,7 +546,7 @@
                 <p>Rizky has been in the coffee industry for over five years. With a calm and steady presence, he’s often found behind the espresso machine crafting smooth, well-balanced shots. He loves sharing stories about coffee origins and teaching customers about different roast profiles.</p>
               </div>
             </div>
-          </div><!-- End Chef Team Member -->
+          </div><!-- End Barista Team Member -->
 
           <div class="col-lg-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
@@ -831,14 +831,13 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Leksa Aura</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Leksa Aura</strong></p>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href="https://themewagon.com">ThemeWagon</a>
-      </div>
+        
     </div>
 
   </footer>
